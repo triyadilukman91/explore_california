@@ -1,0 +1,15 @@
+# Comment
+tempfile.txt
+.DS_STORE
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+
+coverage
+node_modules
+
+.idea/
+.vscode/
+dump.rdb
+yarn.lock
